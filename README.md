@@ -32,3 +32,18 @@ To run this project press the command
 
 npm run dev
 
+
+
+
+
+
+Tech Stack ⚙️
+This project is a full-stack application leveraging the power of several modern frameworks:
+
+Next.js: The core framework that allows for a unified frontend and backend.
+
+React: Used for building the component-based, interactive user interface.
+
+Tailwind CSS: A utility-first CSS framework for rapid and responsive styling.
+
+Gemini API: The powerful large language model that provides the bot's intelligence and personality.
