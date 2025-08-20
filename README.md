@@ -1,3 +1,7 @@
+🤖 Sarcastic Chatbot
+
+
+
 This chatbot is designed to be a sarcastic and witty conversationalist, using humor and subtle mockery in its replies. It's a text-based bot built with Next.js and React, focused entirely on cracking jokes and entertaining you.
 
 
