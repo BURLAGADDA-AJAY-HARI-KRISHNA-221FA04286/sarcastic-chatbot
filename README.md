@@ -9,8 +9,7 @@ This project combines modern web technologies with the **Gemini API** to deliver
 ## ✨ Features
 
 - **Sarcastic Personality** – The bot is fine-tuned with a custom prompt to ensure it replies with humor and wit.  
-- **Simple UI** – Built with React and styled using Tailwind CSS for a clean, minimalist design.  
-- **Share Functionality** – Copy your entire chat history to the clipboard with one click.  
+- **Simple UI** – Built with React and styled using Tailwind CSS for a clean, minimalist design.    
 - **Secure API Handling** – The backend (Next.js) securely handles all Gemini API requests, so your API key is never exposed.  
 
 ---
