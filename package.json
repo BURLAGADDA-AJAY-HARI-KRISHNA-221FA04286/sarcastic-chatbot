@@ -1,0 +1,14 @@
+{
+  
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+    
+  }
+
+  "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint"
+}
+}
