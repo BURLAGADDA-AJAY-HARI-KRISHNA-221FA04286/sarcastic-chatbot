@@ -4,8 +4,7 @@
     "@google/generative-ai": "^0.24.1"
     
   }
-
-  "scripts": {
+"scripts": {
   "dev": "next dev",
   "build": "next build",
   "start": "next start",
